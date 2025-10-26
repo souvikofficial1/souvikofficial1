@@ -1,27 +1,128 @@
-# 💫 About Me:
-i'm currently working on react, next, javascript<br>i'm intertest in DevOps<br>have exprience in tools like Docker, Terraform, Kubernetes, jenkins,git
+<!-- CUSTOM ANIMATED BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Souvik%20Mondal%20🚀&fontAlign=50&fontAlignY=40&color=0:00FFFF,100:1E1E2E&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Engineer%20%7C%20Cloud%20Enthusiast&descAlign=50&descAlignY=65" />
+</p>
 
+<!-- AVATAR & INTRO -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/9919?v=4" width="120" height="120" style="border-radius:50%;border:2px solid #00FFFF;"/>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/souvikmondal-unix) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souvikofficial21@gmail.com) 
+<h3 align="center">💻 Crafting Web Experiences | ☁️ Automating the Cloud | ⚡ Empowering Code</h3>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KALYANIHF&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KALYANIHF&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KALYANIHF&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KALYANIHF&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KALYANIHF&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=00FFFF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%F0%9F%9A%80;DevOps+Practitioner+%E2%9A%99%EF%B8%8F;Cloud+Explorer+%E2%98%81%EF%B8%8F;Always+learning+and+automating+💡" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KALYANIHF&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+👨‍💻 I’m a **developer who loves merging development with operations.**  
+⚙️ Currently exploring **React, Next.js, and modern DevOps practices.**  
+🌍 Building scalable web apps and cloud-native systems.  
+🧩 Passionate about **Docker**, **Terraform**, **Kubernetes**, and **CI/CD pipelines**.  
+💬 Ask me about **frontend architecture**, **deployment automation**, or **GitOps**.  
+🎯 Motto: _"Automate everything that can be automated."_
+
+---
+
+[gravaterProfle](https://gravatar.com/sudoalpha)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/souvikmondal-unix" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:souvikofficial21@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧩 Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,html,css" /><br>
+  <b>Frontend</b>
+</td>
+<td align="center" width="200">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php" /><br>
+  <b>Backend & Databases</b>
+</td>
+<td align="center" width="200">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,git,github,linux" /><br>
+  <b>DevOps & Tools</b>
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+| Project                                                                              | Description                                               | Stack                                                                                       |
+| ------------------------------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| 🗳️ [Feedback Application](https://github.com/KALYANIHF/feedback-app)                 | A modern feedback system with analytics dashboard         | React, Node.js, Express, MongoDB                                                            |
+| ☁️ [Personal Portfolio](https://github.com/KALYANIHF/souvikofficial.git)             | React.Jst Portfolio website with SSR and SEO optimization | React, Tailwind CSS , Node.js,AMAZON SES,JEST                                               |
+| ⚙️ [Node.js API](https://github.com/KALYANIHF/mentorgrid.live.git)                   | Node.js backend API                                       | Node.js, Express.js, mongoose, JWT, Swagger, JEST,CSS, AMAZON SES (EMAIL to reset password) |
+| 🧠 [Jenkins-pipeline-azure](https://github.com/KALYANIHF/jenkins-pipeline-azure.git) | Azure kubernetes AKS, service creation, CI/CD deployment  | Node creation (master/worker), auto-scaling                                                 |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KALYANIHF&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KALYANIHF&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALYANIHF&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF" height="170"/>
+</p>
+
+---
+
+## 🏆 Achievements
+
+![trophy](https://github-trophies.vercel.app/?username=KALYANIHF)
+
+---
+
+## 🌌 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KALYANIHF&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" width="90%">
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> “In DevOps, the best deployment is the one that goes unnoticed.” 😎
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hello-World-blue?style=for-the-badge" />
+</p>
+
+<p align="center">✨ Designed & Coded with ❤️ by <b>Souvik Mondal</b> ✨</p>
