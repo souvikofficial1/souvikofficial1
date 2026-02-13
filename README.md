@@ -73,36 +73,36 @@
 
 | Project                                                                              | Description                                               | Stack                                                                                       |
 | ------------------------------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| 🗳️ [Feedback Application](https://github.com/KALYANIHF/feedback-app)                 | A modern feedback system with analytics dashboard         | React, Node.js, Express, MongoDB                                                            |
-| ☁️ [Personal Portfolio](https://github.com/KALYANIHF/souvikofficial.git)             | React.Jst Portfolio website with SSR and SEO optimization | React, Tailwind CSS , Node.js,AMAZON SES,JEST                                               |
-| ⚙️ [Node.js API](https://github.com/KALYANIHF/mentorgrid.live.git)                   | Node.js backend API                                       | Node.js, Express.js, mongoose, JWT, Swagger, JEST,CSS, AMAZON SES (EMAIL to reset password) |
-| 🧠 [Jenkins-pipeline-azure](https://github.com/KALYANIHF/jenkins-pipeline-azure.git) | Azure kubernetes AKS, service creation, CI/CD deployment  | Node creation (master/worker), auto-scaling                                                 |
+| 🗳️ [Feedback Application](https://github.com/souvikofficial1/feedback-app)                 | A modern feedback system with analytics dashboard         | React, Node.js, Express, MongoDB                                                            |
+| ☁️ [Personal Portfolio](https://github.com/souvikofficial1/souvikofficial.git)             | React.Jst Portfolio website with SSR and SEO optimization | React, Tailwind CSS , Node.js,AMAZON SES,JEST                                               |
+| ⚙️ [Node.js API](https://github.com/souvikofficial1/mentorgrid.live.git)                   | Node.js backend API                                       | Node.js, Express.js, mongoose, JWT, Swagger, JEST,CSS, AMAZON SES (EMAIL to reset password) |
+| 🧠 [Jenkins-pipeline-azure](https://github.com/souvikofficial1/jenkins-pipeline-azure.git) | Azure kubernetes AKS, service creation, CI/CD deployment  | Node creation (master/worker), auto-scaling                                                 |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KALYANIHF&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KALYANIHF&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=souvikofficial1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souvikofficial1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALYANIHF&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikofficial1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF" height="170"/>
 </p>
 
 ---
 
 ## 🏆 Achievements
 
-![trophy](https://github-trophies.vercel.app/?username=KALYANIHF)
+![trophy](https://github-trophies.vercel.app/?username=souvikofficial1)
 
 ---
 
 ## 🌌 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KALYANIHF&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souvikofficial1&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
