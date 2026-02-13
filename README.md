@@ -80,19 +80,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souvikofficial1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souvikofficial1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikofficial1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF" height="170"/>
-</p>
-
----
-
 ## 🏆 Achievements
 
 ![trophy](https://github-trophies.vercel.app/?username=souvikofficial1)
